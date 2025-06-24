@@ -1,6 +1,6 @@
 # Project Proposal
 
-Pod Members: **Add Pod Members Names**
+Pod Members: **Brianna Farinango, Divine Precious-Esue, Mamadou Ndom**
 
 ## Problem Statement
 
