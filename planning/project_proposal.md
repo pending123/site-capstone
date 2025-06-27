@@ -4,11 +4,14 @@ Pod Members: **Brianna Farinango, Divine Precious-Esue, Mamadou Ndom**
 
 ## Problem Statement
 
-Insert your groups problem statement and target audience.
+Interns relocating to San Francisco face overwhelming challenges in finding compatible roommates, navigating unfamiliar neighborhoods, and discovering local professional and social opportunities. Without access to a community of peers facing similar relocation challenges, they miss out on valuable connections that could enhance their career development and city experience.
 
 ## Description
 
-What is the main purpose of your project? What are the key features your site has to offer its users? How will your targeted audience use your website?
+The main purpose of our project is to create a web platform that helps interns and early-career professionals successfully integrate into San Francisco's professional and social landscape. Our site offers three key functionalities: roommate matching, neighborhood exploration with safety and budget information, and event discovery throughout the city. 
+
+Our targeted audience of interns and early-career professionals will use the website to create verified profiles, browse and match with potential roommates based on compatibility factors, explore SF neighborhoods with detailed information about safety, cost, and amenities, discover events throughout the city, participate in community forums, and sync networking events directly to their personal calendars for easy planning.
+
 
 ## Expected Features List
 
