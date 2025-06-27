@@ -14,13 +14,30 @@ Our targeted audience of interns and early-career professionals will use the web
 
 
 ## Expected Features List
-
-Add a list of your groups's brainstormed features list
+- Login/User Registration
+- User profile creation with school, work, background, and fun facts
+- Events Discovery Page (AI TLDR of Events)
+- Roomate/Neighborhood Finder and Information Portal
+- Community forum and discussion boards
 
 ## Related Work
+Similar apps and websites:
+- Bumble BFF: Social networking for friendships, but lacks housing and professional focus
+- SpareRoom/Roomi: Roommate finding apps, but missing community and professional networking elements
+- Meetup/Eventbrite: Event discovery platforms, but not tailored to interns or early-career professionals
+- Facebook Groups: Intern housing groups exist but lack verification, matching algorithms, and integrated neighborhood information
 
-What similar apps and websites? How will your project stand out from these other websites?
+Our project stands out by:
+- Combining roommate matching, neighborhood exploration, and professional networking in one platform
+- Focusing specifically on the intern/early-career demographic with verification through work/school emails
+- Providing San Francisco-specific neighborhood insights and safety information
+- Offering AI-curated event recommendations tailored to career development
+- Creating a trusted community through email verification and peer reviews
 
 ## Open Questions
 
-What questions do you still have? What topics do you need to research more for your project?
+- How can we effectively verify users while maintaining privacy and security?
+- What specific neighborhood data points are most valuable for intern decision-making?
+- How can we ensure our web scraping for events complies with website terms of service?
+- What matching algorithm criteria will be most effective for roommate compatibility?
+- How to properly implement AI into our events features
