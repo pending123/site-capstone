@@ -1,6 +1,6 @@
 # Project Plan
 
-Pod Members: **Add Pod Members Names**
+Pod Members: **Divine Precious-Esue, Brianna Farinango, Mamadou Ndom**
 
 ## Problem Statement and Description
 
@@ -12,7 +12,9 @@ Include the most up-to-date user roles and personas.
 
 ## User Stories
 
-List the current user stories you will implement.
+# Core User Stories
+
+# Optional User Stories
 
 ## Pages/Screens
 
