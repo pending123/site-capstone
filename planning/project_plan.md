@@ -12,9 +12,9 @@ Include the most up-to-date user roles and personas.
 
 ## User Stories
 
-# Core User Stories
+### Core User Stories
 
-# Optional User Stories
+### Optional User Stories
 
 ## Pages/Screens
 
