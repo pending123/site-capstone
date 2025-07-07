@@ -17,6 +17,16 @@ List the current user stories you will implement.
 ## Pages/Screens
 
 List all the pages and screens in the app. Include wireframes for at least 3 of them.
+- Sign up Page
+- Login Page
+- Onboarding (Profile Creation) Page
+- Account Management Page
+- Profile Management Page
+- Roommate Finder Page
+- View Profile Page
+- Neighborhood Information Search Page
+- Events Page
+- Individual Events Page
 
 ## Data Model
 
