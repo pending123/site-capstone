@@ -17,7 +17,7 @@ Include the most up-to-date user roles and personas.
 - As an intern, I want to view detailed profiles of other interns so that I can decide if I'm interested in reaching out.
 - As an intern, I want to filter roomates by criteria so that I can narrow my search.
 - As an intern, I want to explore different neighborhoods so that I can learn about places I might want to live.
-- As am intern, I want to browse a list of tech events so that I can discover opportunities to connect with other people.
+- As an intern, I want to browse a list of tech events so that I can discover opportunities to connect with other people.
 - As an intern, I want to filter events so that I can find events that match my interests.
 - As a user, I want to be able to update my email or password so that I can keep my account secure.
 - As a user, I want to be able to update my bio and information si that can others can get to know me.
