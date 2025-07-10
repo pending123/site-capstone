@@ -38,37 +38,51 @@ As an intern looking for roommates, I want to filter possible matches by criteri
 
 #### 6. Explore Neighborhoods
 As an intern, I want to explore different neighborhoods so that I can learn about places I might want to live.
-Browse Events
+
+#### 7. Browse Events
 As an intern, I want to browse a list of tech events so that I can discover opportunities to connect with other people.
-View Detailed Event Information
+
+#### 8. View Detailed Event Information
 As an intern, I want to view a detailed page for an event so that I can learn more about its location, description, and time before deciding to attend.
-Account Management
+
+#### 9. Account Management
 As a user, I want to be able to update my email or password so that I can keep my account secure.
-Edit Profile
+
+#### 10. Edit Profile
 As a user, I want to be able to update my bio and information so that others can get to know me.
-Account Log Out
+
+#### 11. Account Log Out
 As a user, I want to log out so that I can secure my account
-Profile Deletion
+
+#### 12. Profile Deletion
 As a user, I want to delete my profile and application-specific data so that I can permanently remove my information from the platform.
 
 Optional User Stories
-Filter Events
+#### 13. Filter Events
 As an intern, I want to filter events so that I can find events that match my interests.
-Save Events
+
+#### 14. Save Events
 As an intern, I want to save events that interest me so that I can easily view them later on a personal list.
-Remove Saved Event
+
+#### 15. Remove Saved Event
 As a user, I want to remove an event from my saved list so that I can keep my list of interesting events up-to-date
-View Saved Events
+
+#### 16. View Saved Events
 As a user, I want to view my list of saved events so that I can see all the opportunities I'm interested in in one place
-AI Events Summary
+
+#### 17. AI Events Summary
 As a busy intern, I want to be able to view a weekly/daily roundup of upcoming events I may be interested in so that I don’t have to look through a long list of events.
-Events Created by User
+
+#### 18. Events Created by User
 As a registered user, I want to create and post my own events so that I can organize meetups and connect with others who have similar interests.
-Update User Created Events
+
+#### 19. Update User Created Events
 As a user, I want to update the details of an event I created so that I can correct mistakes or provide new information to attendees. 
-Delete User Created Events
+
+#### 20. Delete User Created Events
 As a user, I want to delete an event I created so that I can remove it from the platform if it gets canceled or is no longer happening. 
-Discussion Boards
+
+#### 21. Discussion Boards
 As a registered user, I want to be able to create/join discussion boards so that I can meet new people and explore what’s happening in my location.
 
 
