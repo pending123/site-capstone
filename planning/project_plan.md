@@ -23,15 +23,20 @@ Intern: College student or recent graduate temporarily relocating for internship
 
 #### 1. Account Creation and Log in
 As a user, I want to create an account or log in so that I can access roommate matching, neighborhood exploration and events discovery features.
-User Profile Creation
+
+#### 2. User Profile Creation
 As a new user, I want to fill out my profile during onboarding so that other users can see information about me.
-View Potential Roommates
+
+#### 3. View Potential Roommates
 As an intern, I want to view a list of other interns looking for roommates so that I can find people I might want to contact.
-View Detailed Profile of Potential Roommate
+
+#### 4. View Detailed Profile of Potential Roommate
 As an intern, I want to view detailed profiles of other interns so that I can decide if I'm interested in reaching out.
-Filter Potential Roommates
+
+#### 5. Filter Potential Roommates
 As an intern looking for roommates, I want to filter possible matches by criteria so that I can narrow my search.
-Explore Neighborhoods
+
+#### 6. Explore Neighborhoods
 As an intern, I want to explore different neighborhoods so that I can learn about places I might want to live.
 Browse Events
 As an intern, I want to browse a list of tech events so that I can discover opportunities to connect with other people.
