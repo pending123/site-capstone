@@ -57,7 +57,8 @@ As a user, I want to log out so that I can secure my account
 #### 12. Profile Deletion
 As a user, I want to delete my profile and application-specific data so that I can permanently remove my information from the platform.
 
-Optional User Stories
+### Optional User Stories
+
 #### 13. Filter Events
 As an intern, I want to filter events so that I can find events that match my interests.
 
