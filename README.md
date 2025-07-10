@@ -1,10 +1,10 @@
 # SITE Capstone Project
 
-SITE Course Year: **20__**
+SITE Course Year: **2025**
 
-Cohort: **Add Company Sponsor Name**
+Cohort: **Salesforce**
 
-Team Member Names:**Insert Team Member Names**
+Team Member Names:**Divine Precious-Esue, Brianna Farinango, Mamadou Ndom**
 
 Mentors Names: **Insert Professional Mentor Names**
 
