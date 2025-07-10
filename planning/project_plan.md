@@ -4,11 +4,11 @@ Pod Members: **Divine Precious-Esue, Brianna Farinango, Mamadou Ndom**
 
 ## Problem Statement and Description
 
-###Problem Statement
+### Problem Statement
 Interns relocating for work have to solve three big problems at once: finding compatible roommates, navigating unfamiliar neighborhoods, and discovering social or professional events. Without a central hub of information or access to a community of peers facing similar relocation challenges, they end up wasting time and also miss out on valuable connections that could enhance their career development and city experience.
 
 
-###Description
+### Description
 The main purpose of our project is to create a web platform that helps interns and early-career professionals successfully integrate into a new city's landscape. Our site offers three key functionalities: roommate matching, neighborhood exploration with relevant safety and budget information, and event discovery.
 
 Our users will be able to create verified profiles, browse and match with potential roommates based on compatibility factors, explore local neighborhoods with detailed information, and discover relevant events. 
