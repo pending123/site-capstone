@@ -10,7 +10,7 @@ Mentors Names: **Insert Professional Mentor Names**
 
 Project Code Repository Links
 
-* [Frontend Repo Link]()
+* [Frontend Repo Link](https://github.com/pending123/internmingle-frontend)
 * [Backend Repo Link]()
 
 ## Project Overview
