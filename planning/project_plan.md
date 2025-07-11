@@ -104,7 +104,9 @@ List all the pages and screens in the app. Include wireframes for at least 3 of 
 
 ## Data Model
 
-<img width="546" height="762" src="https://github.com/user-attachments/assets/ece3e4a1-9fe4-40aa-b091-49ac1dfbb216" />
+<img width="544" height="750" alt="Screenshot 2025-07-11 at 11 58 42 AM" src="https://github.com/user-attachments/assets/319ef621-6f5f-40a1-a359-a4f01ae67cf6" />
+
+<img width="665" height="304" alt="Screenshot 2025-07-11 at 11 58 07 AM" src="https://github.com/user-attachments/assets/4c5e5ebc-6d7c-4834-bf0d-6d9a8eec7838" />
 
 
 ## Endpoints
