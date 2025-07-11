@@ -5,8 +5,7 @@ Pod Members: **Divine Precious-Esue, Brianna Farinango, Mamadou Ndom**
 ## Problem Statement and Description
 
 ### Problem Statement
-Interns relocating for work have to solve three big problems at once: finding compatible roommates, navigating unfamiliar neighborhoods, and discovering social or professional events. Without a central hub of information or access to a community of peers facing similar relocation challenges, they end up wasting time and also miss out on valuable connections that could enhance their career development and city experience.
-
+Interns relocating to new cities face overwhelming challenges in finding compatible roommates, navigating unfamiliar neighborhoods, and discovering local professional and social opportunities. Without access to a community of peers facing similar relocation challenges, they miss out on valuable connections that could enhance their career development and city experience.
 
 ### Description
 The main purpose of our project is to create a web platform that helps interns and early-career professionals successfully integrate into a new city's landscape. Our site offers three key functionalities: roommate matching, neighborhood exploration with relevant safety and budget information, and event discovery.
@@ -15,8 +14,13 @@ Our users will be able to create verified profiles, browse and match with potent
 
 ## User Roles and Personas
 
-Include the most up-to-date user roles and personas.
+### User Roles
 Intern: College student or recent graduate temporarily relocating for internships
+
+### User Personas
+Carmen is a rising junior at Harvard that will be interning at Real Company© as a Software Engineering intern in San Francisco. Carmen has already found other students to room with over the summer, but she’s never been off the east coast. As a result she’s feeling overwhelmed and isn’t sure what to do or where to go to make the most of her summer
+
+Ace is a sophomore at UIUC that comes from a very small town where he struggles to meet new people. This upcoming summer, Ace will be a growth strategist intern at Real Company©. He’s very excited about the opportunity but with San Francisco’s expensive rent, Ace will only be able to afford housing if he has 1-2 roommates. Ace wants to make sure that he has a place to stay with clean and respectful roommates that he’s compatible with.
 
 ## User Stories
 ### Core User Stories
@@ -62,28 +66,22 @@ As a user, I want to delete my profile and application-specific data so that I c
 #### 13. Filter Events
 As an intern, I want to filter events so that I can find events that match my interests.
 
-#### 14. Save Events
-As an intern, I want to save events that interest me so that I can easily view them later on a personal list.
+#### 14. Adding Events to Calendar
+As an intern, I want to add events to my calendar so that I don't forget about events I'm interested in attending.
 
-#### 15. Remove Saved Event
-As a user, I want to remove an event from my saved list so that I can keep my list of interesting events up-to-date
-
-#### 16. View Saved Events
-As a user, I want to view my list of saved events so that I can see all the opportunities I'm interested in in one place
-
-#### 17. AI Events Summary
+#### 15. AI Events Summary
 As a busy intern, I want to be able to view a weekly/daily roundup of upcoming events I may be interested in so that I don’t have to look through a long list of events.
 
-#### 18. Events Created by User
+#### 16. Events Created by User
 As a registered user, I want to create and post my own events so that I can organize meetups and connect with others who have similar interests.
 
-#### 19. Update User Created Events
+#### 17. Update User Created Events
 As a user, I want to update the details of an event I created so that I can correct mistakes or provide new information to attendees. 
 
-#### 20. Delete User Created Events
+#### 18. Delete User Created Events
 As a user, I want to delete an event I created so that I can remove it from the platform if it gets canceled or is no longer happening. 
 
-#### 21. Discussion Boards
+#### 19. Discussion Boards
 As a registered user, I want to be able to create/join discussion boards so that I can meet new people and explore what’s happening in my location.
 
 
