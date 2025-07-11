@@ -110,6 +110,8 @@ List all the pages and screens in the app. Include wireframes for at least 3 of 
 
 <img width="665" height="304" alt="Screenshot 2025-07-11 at 11 58 07 AM" src="https://github.com/user-attachments/assets/4c5e5ebc-6d7c-4834-bf0d-6d9a8eec7838" />
 
+<img width="658" height="250" alt="Screenshot 2025-07-11 at 12 03 54 PM" src="https://github.com/user-attachments/assets/88c55126-9be1-49c1-8601-bc961210177b" />
+
 <img width="651" height="252" alt="Screenshot 2025-07-11 at 12 00 16 PM" src="https://github.com/user-attachments/assets/e519da49-1005-4d7a-a12c-172199a5f8c6" />
 
 ## Endpoints
