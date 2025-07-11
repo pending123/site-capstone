@@ -108,6 +108,7 @@ Describe your app's data model using diagrams or tables
 
 ## Endpoints
 
-List the API endpoints you will need to implement.
+<img width="810" height="642" src="https://github.com/user-attachments/assets/56a2a946-5fc8-4855-a3d6-c8ba5d37fa40" />
+
 
 ***Don't forget to set up your Issues, Milestones, and Project Board!***
