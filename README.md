@@ -14,7 +14,7 @@ Project Code Repository Links
 * [Backend Repo Link](https://github.com/pending123/internmingle-backend)
 
 ## Project Overview
-nternMingle is a web application designed to help interns and early-career professionals successfully integrate into San Francisco's professional and social landscape. The app offers three key functionalities: roommate matching based on compatibility factors, neighborhood exploration with detailed safety and budget information, and event discovery throughout the city to enhance career development and social connections.
+InternMingle is a web application designed to help interns and early-career professionals successfully integrate into San Francisco's professional and social landscape. The app offers three key functionalities: roommate matching based on compatibility factors, neighborhood exploration with detailed safety and budget information, and event discovery throughout the city to enhance career development and social connections.
 
 Deployment Website: **www.internmingle.tech**
 
