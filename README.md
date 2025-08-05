@@ -6,18 +6,17 @@ Cohort: **Salesforce**
 
 Team Member Names:**Divine Precious-Esue, Brianna Farinango, Mamadou Ndom**
 
-Mentors Names: **Insert Professional Mentor Names**
+Mentors Names: **Adam Ambrose, Vaibhav Sinha, Vishal Jadhav**
 
 Project Code Repository Links
 
 * [Frontend Repo Link](https://github.com/pending123/internmingle-frontend)
-* [Backend Repo Link]()
+* [Backend Repo Link](https://github.com/pending123/internmingle-backend)
 
 ## Project Overview
+nternMingle is a web application designed to help interns and early-career professionals successfully integrate into San Francisco's professional and social landscape. The app offers three key functionalities: roommate matching based on compatibility factors, neighborhood exploration with detailed safety and budget information, and event discovery throughout the city to enhance career development and social connections.
 
-Add a quick summary of what your project theme and objectives are. 
-
-Deployment Website: **Add Link to Deployed Project**
+Deployment Website: **www.internmingle.tech**
 
 ### Open-source libraries used
 
